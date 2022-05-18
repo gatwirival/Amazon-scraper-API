@@ -38,8 +38,8 @@ https://valamazonscraper.herokuapp.com/search/macbook%20air?api_key= **add your 
 ![image](https://user-images.githubusercontent.com/61587290/169064027-e46fde9d-7680-444f-82a8-d9c31d5671e0.png)
 
 #### suggestions
-> you can add your scrapper api key to your code for you not to keep adding it in your link
-add the following code for that 
+> you can add your scrapper api key to your code, for you not to keep adding it in your link
+> Add the following code for that 
 ```js
 const express = require('express');
 const request = require('request-promise');

@@ -15,19 +15,19 @@ https://valamazonscraper.herokuapp.com
 #### SEARCH(GET)
 
 **Product details Request**
-https://valamazonscraper.herokuapp.com/products/B08N5KWB9H?api_key= **add your scraper api here**
+https://valamazonscraper.herokuapp.com/products/B08N5KWB9H?api_key=  **add your scraper api here**
 
 **response**
 ![image](https://user-images.githubusercontent.com/61587290/169061561-d3beef0f-576d-4665-a083-3c444eabafdc.png)
 
 **Product reviews Request**
-https://valamazonscraper.herokuapp.com/products/B08N5KWB9H/reviews?api_key=**add your scraper api here**
+https://valamazonscraper.herokuapp.com/products/B08N5KWB9H/reviews?api_key= **add your scraper api here**
 
 **response**
 ![image](https://user-images.githubusercontent.com/61587290/169062403-f548e8a4-d10d-4dee-a054-eb8e64a3d8c5.png)
 
 **product offers Request**
-https://valamazonscraper.herokuapp.com/products/B08N5KWB9H/offers?api_key=**add your scraper api here**
+https://valamazonscraper.herokuapp.com/products/B08N5KWB9H/offers?api_key= **add your scraper api here**
 
 **response**
 ![image](https://user-images.githubusercontent.com/61587290/169062873-ea170df8-067b-4151-89ce-b007d6dc1f73.png)
@@ -38,7 +38,8 @@ https://valamazonscraper.herokuapp.com/search/macbook%20air?api_key= **add your 
 ![image](https://user-images.githubusercontent.com/61587290/169064027-e46fde9d-7680-444f-82a8-d9c31d5671e0.png)
 
 #### suggestions
-> you can add your scrapper api key to your code, for you not to keep adding it in your link
+> you can add your scrapper api key to your code, for you not to keep adding it in your link. 
+
 > Add the following code for that 
 ```js
 const express = require('express');
